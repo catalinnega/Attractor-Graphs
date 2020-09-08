@@ -2,18 +2,18 @@
 Live scatter plots of attractors using Dash.
 
 * Plot examples:
-<img align="below" src="lorenz.png">
-<img align="below" src="rossler.png">
-<img align="below" src="henon.png">
+<img align="below" src="img/lorenz.png">
+<img align="below" src="img/rossler.png">
+<img align="below" src="img/henon.png">
 
 * [Lorenz Attractor](https://en.wikipedia.org/wiki/Lorenz_system/) equations:
-<img align="below" width="300" height="300" src="lorenz_eqs.png">
+<img align="below" width="300" height="300" src="img/lorenz_eqs.png">
 
 * [Rossler Attractor](https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor) equations:
-<img align="below" src="rossler_eqs.png">
+<img align="below" src="img/rossler_eqs.png">
 
 * [Henon Map](https://en.wikipedia.org/wiki/H%C3%A9non_map) equations:
-<img align="below" src="henon_eqs.png">
+<img align="below" src="img/henon_eqs.png">
 
 ## Getting Started
 ```

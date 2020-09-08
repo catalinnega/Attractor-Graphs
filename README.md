@@ -10,10 +10,10 @@ Live scatter plots of attractors using Dash.
 <img align="below" width="300" height="300" src="lorenz_eqs.png">
 
 * [Rossler Attractor](https://en.wikipedia.org/wiki/R%C3%B6ssler_attractor) equations:
-<img align="below" width="300" height="300" src="rossler_eqs.png">
+<img align="below" src="rossler_eqs.png">
 
 * [Henon Map](https://en.wikipedia.org/wiki/H%C3%A9non_map) equations:
-<img align="below" width="300" height="300" src="henon_eqs.png">
+<img align="below" src="henon_eqs.png">
 
 ## Getting Started
 ```

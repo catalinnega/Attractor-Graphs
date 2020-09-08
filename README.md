@@ -1,4 +1,4 @@
-# Lorenz-Attractor-graph-on-Dash
+# Attractor Graphs
 Live scatter plots of attractors using Dash.
 
 * Plot examples:
